@@ -2,6 +2,7 @@
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning data analytics with python
 - 💞️ I’m looking to collaborate on any new project which involves using html, css, java, python
+- I'm also interested in learning and developing codes for new technologies
 - 📫 How to reach me : email - talkshrey@gmail.com
 
 <!---
