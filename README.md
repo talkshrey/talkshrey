@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @talkshrey
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently interested in domains of ML and hacking
+- 🌱 I’m currently practising domains like ML and ethical hacking
 - 💞️ I’m looking to collaborate on any new project which involves using html, css, java, python
 - I'm also interested in learning and developing codes for new technologies
 - 📫 How to reach me : email - talkshrey@gmail.com
