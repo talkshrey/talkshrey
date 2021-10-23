@@ -57,7 +57,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=talkshrey&show_icons=true&locale=en&layout=compact" alt="shrey parekh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=talkshrey&show_icons=true&locale=en" alt="shrey parekh" /></p>
+<p> &nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=talkshrey&show_icons=true&locale=en" alt="shrey parekh" width="43%"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=talkshrey&" alt="shrey parekh" /></p>
 </div>
