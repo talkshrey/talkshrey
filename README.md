@@ -3,7 +3,7 @@
 <h1 align="center">Hey, I'm Shrey Parekh</h1>
 <h3 align="center">Activities</h3>
 
-<img width=40% align="right" src="https://img-c.udemycdn.com/redactor/raw/2020-10-10_10-32-20-69d03d986e3001cfb40c457eede13a58.jpg">
+<img width=40% align="right" src="https://c.neh.tw/thumb/f/720/c65e5d8d71a549049df2.jpg">
 <br>
 <br>
   
