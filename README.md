@@ -55,7 +55,7 @@
     <a href="https://portswigger.net/burp" target="_blank"> <img src="https://i2.wp.com/shareappscrack.com/wp-content/uploads/2021/02/be1f6631-3e12-47da-a6fd-f2e007191fae.png?fit=128%2C92&ssl=1" alt="maltego" width="40" height="40"/> </a>
   </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=talkshrey&show_icons=true&locale=en&layout=compact" alt="shrey parekh" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=talkshrey&show_icons=true&locale=en&layout=compact" alt="shrey parekh" width="45%"/></p>
 
 <p> &nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=talkshrey&show_icons=true&locale=en" alt="shrey parekh" width="45%"/></p>
 
