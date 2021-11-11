@@ -7,7 +7,7 @@
 <br>
 <br>
   
-- I’m currently learning **Learning stacks**
+- I’m currently refining **Web Development**
 
 - 💬 Ask me about **Programming languages, Development frameworks, Deep Learning, Data science, Cybersecurity, IOT**
 
