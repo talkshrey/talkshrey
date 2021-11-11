@@ -9,7 +9,7 @@
   
 - I’m currently learning **Learning stacks**
 
-- 💬 Ask me about **Python, C, C++, HTML, CSS, JS, React, Django, Deep Learning, Data science, Cybersecurity, IOT**
+- 💬 Ask me about **Programming languages, Development frameworks, Deep Learning, Data science, Cybersecurity, IOT**
 
 - 📫 How to reach me **talkshrey@gmail.com**
 
