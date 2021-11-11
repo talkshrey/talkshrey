@@ -33,6 +33,7 @@
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
     <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+    <a href="https://mui.com/" target="_blank"> <img src="https://img.stackshare.io/service/1904/default_44d81cb9fadbc3688b7e91a6d5217d0ea5358b57.png" alt="mui" width="40" height="40"/> </a>
   </p>
   <p> Languages </p>
   <p> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -45,7 +46,7 @@
   <p> Open Source </p>
   <p>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-    <a href="https://www.linux.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Linux_logo.jpg" alt="linux" width="30" height="40"/> </a>
+    <a href="https://www.linux.org/" target="_blank"> <img src="https://camo.githubusercontent.com/775cff44e1c61c0a646d44eeaba420c99ace22da815995cd69259ba53f39cf0f/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6c696e75782e706e67" alt="linux" width="30" height="40"/> </a>
     <a href="https://cloud.google.com"> <img src="https://camo.githubusercontent.com/582944f6627732531ce1a2e20ad43538d1896e16a5f159ea28fd137dbb8e798a/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676f6f676c655f636c6f75642f676f6f676c655f636c6f75642d69636f6e2e737667" alt="cloud" width="40" height="40"/> </a>
     <a href="https://colab.research.google.com/?utm_source=scs-index"> <img src="https://avatars.githubusercontent.com/u/38081706?v=4" alt="colab" width="40" height="40"/> </a>  
   </p>
@@ -58,19 +59,27 @@
     <a href="https://www.labcenter.com/" target="_blank"> <img src="https://i0.wp.com/abbaspc.net/wp-content/uploads/2020/01/Proteus-Professional-Crack-Download.png" alt="proteus" width="43" height="40"/> </a>
   </p>
  
-  <p> Machine learning </p>
+  <p> ML and Data Science </p>
   <p>
      <a href="https://opencv.org/" target="_blank"> <img src="https://camo.githubusercontent.com/ce9fb3389462f2c9444f863e410f0d17d04b216beba8749a015011887eadfbaf/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6f70656e63762f6f70656e63762d69636f6e2e737667" alt="opencv" width="40" height="40"/> </a>
-    <a href="https://spacy.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/SpaCy_logo.svg/2560px-SpaCy_logo.svg.png" alt="spacy" width="68" height="38"/> </a>
+    <a href="https://spacy.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/SpaCy_logo.svg/2560px-SpaCy_logo.svg.png" alt="spacy" width="68" height="32"/> </a>
     <a href="https://pytorch.org/" target="_blank"> <img src="https://camo.githubusercontent.com/c895dcc921b7591d8133f091d69bce4de301c6834af8a201d6a25237c80524cf/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7079746f7263682f7079746f7263682d69636f6e2e737667" alt="pytorch" width="40" height="40"/> </a>
+    <a href="https://numpy.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/2560px-NumPy_logo_2020.svg.png" alt="numpy" width="63" height="45"/> </a>
+    <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="pandas" width="40" height="40"/> </a>
+    <a href="https://powerbi.microsoft.com/en-au/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJizP58YF8vMSSq8QmU3oLmkQppoSKsw7Grw&usqp=CAU" alt="power bi" width="40" height="40"/> </a>
+    <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://camo.githubusercontent.com/2696dab93dcf14522f50bf2ca978d3d13e8cc1709eb3218f092ea486c798a3d0/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f322f32642f54656e736f72666c6f775f6c6f676f2e7376672f39353770782d54656e736f72666c6f775f6c6f676f2e7376672e706e67" alt="tensorflow" width="40" height="40"/> </a>
   </p>
-  
+
   <p> Cybersecurity </p>
   <p>
     <a href="https://www.maltego.com/" target="_blank"> <img src="https://taiwebs.com/upload/icons/maltego100-100.png" alt="maltego" width="40" height="40"/> </a>
     <a href="https://www.wireshark.org/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/wireshark_104082.png" alt="wireshark" width="40" height="40"/> </a>
     <a href="https://portswigger.net/burp" target="_blank"> <img src="https://i2.wp.com/shareappscrack.com/wp-content/uploads/2021/02/be1f6631-3e12-47da-a6fd-f2e007191fae.png?fit=128%2C92&ssl=1" alt="maltego" width="40" height="40"/> </a>
   </p>
+  
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=talkshrey&label=Profile%20views&color=0e75b6&style=flat" alt="shrey" /> </p>
+
+  <p align="left"> <a href="https://github.com/talkshrey/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talkshrey" alt="shrey" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=talkshrey&show_icons=true&locale=en&layout=compact" alt="shrey parekh" width="40%"/></p>
 
