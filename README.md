@@ -48,7 +48,9 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
     <a href="https://www.linux.org/" target="_blank"> <img src="https://camo.githubusercontent.com/775cff44e1c61c0a646d44eeaba420c99ace22da815995cd69259ba53f39cf0f/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6c696e75782e706e67" alt="linux" width="30" height="40"/> </a>
     <a href="https://cloud.google.com"> <img src="https://camo.githubusercontent.com/582944f6627732531ce1a2e20ad43538d1896e16a5f159ea28fd137dbb8e798a/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676f6f676c655f636c6f75642f676f6f676c655f636c6f75642d69636f6e2e737667" alt="cloud" width="40" height="40"/> </a>
-    <a href="https://colab.research.google.com/?utm_source=scs-index"> <img src="https://avatars.githubusercontent.com/u/38081706?v=4" alt="colab" width="40" height="40"/> </a>  
+    <a href="https://colab.research.google.com/?utm_source=scs-index"> <img src="https://avatars.githubusercontent.com/u/38081706?v=4" alt="colab" width="40" height="40"/> </a>
+    <a href="https://ubuntu.com/"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwsiaLZUGQtezE7dmXL4_pkNQVo26GkZ0yl6z_EgWES_kf_cCH2AucyczbjHRSgEsKdXc&usqp=CAU" alt="colab" width="40" height="40"/> </a>
+    <a href="https://www.kali.org/"> <img src="https://toppng.com/uploads/preview/kali-linux-logo-11562915225uyursxhbp6.png" alt="colab" width="40" height="40"/> </a>  
   </p>
   
   <p> IOT </p>
