@@ -9,7 +9,7 @@
   
 - I’m currently learning **NLP**
 
-- 💬 Ask me about **Programming languages, Development frameworks, Deep Learning, Data science, Cybersecurity, IOT**
+- 💬 Ask me about **Programming languages, Development frameworks, Deep Learning, Data science, Cybersecurity, IOT, Blockchain**
 
 - 📫 How to reach me **talkshrey@gmail.com**
 
