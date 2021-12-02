@@ -44,7 +44,7 @@
     <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://d33wubrfki0l68.cloudfront.net/a49c5f63d431650c696cfd10cb70c880726281df/c9f07/img/logo.png" alt="bash" width="30" height="40"/> </a>
     <a href="https://elixir-lang.org/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_elixir_icon_130623.png" alt="elixir" width="40" height="40"/> </a>
   </p>
-  <p> Open Source </p>
+  <p> Open Source and linux </p>
   <p>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
     <a href="https://www.linux.org/" target="_blank"> <img src="https://camo.githubusercontent.com/775cff44e1c61c0a646d44eeaba420c99ace22da815995cd69259ba53f39cf0f/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6c696e75782e706e67" alt="linux" width="30" height="40"/> </a>
