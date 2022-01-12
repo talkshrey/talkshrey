@@ -9,7 +9,7 @@
   
 - I’m currently learning **NLP**
 
-- 💬 Ask me about **Programming languages, Development frameworks, Deep Learning, Data science, Cybersecurity, IOT, Blockchain, AR, Cloud Computing**
+- 💬 Ask me about **Programming languages, Web/App Development, Frameworks, Deep Learning, Data science, Cybersecurity, IOT, Blockchain, AR, Cloud Computing**
 
 - 📫 How to reach me **talkshrey@gmail.com**
 
@@ -35,6 +35,12 @@
     <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
     <a href="https://mui.com/" target="_blank"> <img src="https://img.stackshare.io/service/1904/default_44d81cb9fadbc3688b7e91a6d5217d0ea5358b57.png" alt="mui" width="30" height="30"/> </a>
     <a href="https://www.figma.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="35" height="35"/> </a>
+    <a href="https://threejs.org/" target="_blank"> <img src="https://aws1.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" alt="three" width="35" height="35"> </a>    
+  </p>
+  <p> App Development </p>
+  <p>
+    <a href="https://developer.android.com/studio" target="_blank"> <img src="https://iconape.com/wp-content/png_logo_vector/android-robot-head.png" alt="android" width="35" height="40"/>
+    <a href="https://kotlinlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Kotlin_Icon_2021.svg/1024px-Kotlin_Icon_2021.svg.png" alt="kotlin" width="30" height="30"/>      
   </p>
   <p> Languages </p>
   <p> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -78,6 +84,13 @@
     <a href="https://www.maltego.com/" target="_blank"> <img src="https://taiwebs.com/upload/icons/maltego100-100.png" alt="maltego" width="40" height="40"/> </a>
     <a href="https://www.wireshark.org/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/wireshark_104082.png" alt="wireshark" width="40" height="40"/> </a>
     <a href="https://portswigger.net/burp" target="_blank"> <img src="https://i2.wp.com/shareappscrack.com/wp-content/uploads/2021/02/be1f6631-3e12-47da-a6fd-f2e007191fae.png?fit=128%2C92&ssl=1" alt="maltego" width="40" height="40"/> </a>
+  </p>
+  
+  <p> Blockchain </p>
+  <p>
+    <a href="https://solana.com/" target="_blank"> <img src="https://play-lh.googleusercontent.com/a5lCt1NVxUf6sv5zsL24KQMEJf0EJKsYoh3uZNgqNKsfAbmky5oXddLig9i8r7yX4dNm" alt="solana" width="40" height="40"/> </a>
+    <a href="https://www.deso.org/" target="_blank"> <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/10442.png" alt="deso" width="40" height="40"/> </a>
+    
   </p>
   
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=talkshrey&label=Profile%20views&color=0e75b6&style=flat" alt="shrey" /> </p>
