@@ -7,7 +7,7 @@
 <br>
 <br>
   
-- I’m currently learning **NLP**
+- I’m currently learning **Blockchain Enginerring**
 
 - 💬 Ask me about **Programming languages, Web/App Development, Frameworks, Deep Learning, Data science, Cybersecurity, IOT, Blockchain, AR, Cloud Computing**
 
