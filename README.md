@@ -96,11 +96,11 @@
   
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=talkshrey&label=Profile%20views&color=0e75b6&style=flat" alt="shrey" /> </p>
 
-  <p align="left"> <a href="https://github.com/talkshrey/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talkshrey" alt="shrey" /></a> </p>
+  <p align="left"> <a href="https://github.com/talkshrey/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talkshrey&theme=darkhub&row=2&column=4" alt="shrey" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=talkshrey&show_icons=true&locale=en&layout=compact" alt="shrey parekh" width="40%"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=talkshrey&show_icons=true&locale=en&layout=compact&theme=dark" alt="shrey parekh" width="40%"/></p>
 
-<p> &nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=talkshrey&show_icons=true&locale=en" alt="shrey parekh" width="45%"/></p>
+<p> &nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=talkshrey&show_icons=true&locale=en&theme=dark" alt="shrey parekh" width="45%"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=talkshrey&" alt="shrey parekh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=talkshrey&theme=dark" alt="shrey parekh" /></p>
 </div>
