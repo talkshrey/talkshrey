@@ -23,7 +23,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
-  <p> Full stack Development </p>
+  <p> Full Stack Development </p>
   <p>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
@@ -38,27 +38,31 @@
     <a href="https://threejs.org/" target="_blank"> <img src="https://aws1.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" alt="three" width="35" height="35"> </a>   
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.pngkey.com/png/full/269-2693201_mysql-logo-circle-png.png" alt="mysql" width="35" height="35"> </a>
   </p>
-  <p> App Development </p>
+  
+  <p> Cybersecurity </p>
   <p>
-    <a href="https://developer.android.com/studio" target="_blank"> <img src="https://iconape.com/wp-content/png_logo_vector/android-robot-head.png" alt="android" width="35" height="40"></a>
-    <a href="https://kotlinlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Kotlin_Icon_2021.svg/512px-Kotlin_Icon_2021.svg.png" alt="kotlin" width="30" height="25"> </a>      
+    <a href="https://www.maltego.com/" target="_blank"> <img src="https://taiwebs.com/upload/icons/maltego100-100.png" alt="maltego" width="40" height="40"/> </a>
+    <a href="https://www.wireshark.org/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/wireshark_104082.png" alt="wireshark" width="40" height="40"/> </a>
+    <a href="https://portswigger.net/burp" target="_blank"> <img src="https://user-images.githubusercontent.com/74039736/189040486-5d64a25b-0a04-4605-86bf-7a9f0ed50952.png" alt="maltego" width="40" height="40"/> </a>
   </p>
-  <span> Languages </span>
-  <p> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-    <a href="https://www.java.com/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://d33wubrfki0l68.cloudfront.net/a49c5f63d431650c696cfd10cb70c880726281df/c9f07/img/logo.png" alt="bash" width="30" height="40"/> </a>
-    <a href="https://elixir-lang.org/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_elixir_icon_130623.png" alt="elixir" width="40" height="40"/> </a>
+  
+  <p> ML and Data Science </p>
+  <p>
+     <a href="https://opencv.org/" target="_blank"> <img src="https://camo.githubusercontent.com/ce9fb3389462f2c9444f863e410f0d17d04b216beba8749a015011887eadfbaf/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6f70656e63762f6f70656e63762d69636f6e2e737667" alt="opencv" width="35" height="35"/> </a>
+    <a href="https://spacy.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/SpaCy_logo.svg/2560px-SpaCy_logo.svg.png" alt="spacy" width="50" height="22"/> </a>
+    <a href="https://pytorch.org/" target="_blank"> <img src="https://camo.githubusercontent.com/c895dcc921b7591d8133f091d69bce4de301c6834af8a201d6a25237c80524cf/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7079746f7263682f7079746f7263682d69636f6e2e737667" alt="pytorch" width="35" height="35"/> </a>
+    <a href="https://numpy.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/2560px-NumPy_logo_2020.svg.png" alt="numpy" width="80" height="45"/> </a>
+    <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="pandas" width="40" height="40"/> </a>
+    <a href="https://powerbi.microsoft.com/en-au/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJizP58YF8vMSSq8QmU3oLmkQppoSKsw7Grw&usqp=CAU" alt="power bi" width="40" height="40"/> </a>
+    <a href="https://www.tensorflow.org/" target="_blank"> <img     src="https://camo.githubusercontent.com/2696dab93dcf14522f50bf2ca978d3d13e8cc1709eb3218f092ea486c798a3d0/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f322f32642f54656e736f72666c6f775f6c6f676f2e7376672f39353770782d54656e736f72666c6f775f6c6f676f2e7376672e706e67" alt="tensorflow" width="40" height="40"/> </a>
   </p>
+  
   <p> Open Source and linux </p>
   <p>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
     <a href="https://www.linux.org/" target="_blank"> <img src="https://camo.githubusercontent.com/775cff44e1c61c0a646d44eeaba420c99ace22da815995cd69259ba53f39cf0f/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6c696e75782e706e67" alt="linux" width="30" height="40"/> </a>
     <a href="https://cloud.google.com"> <img src="https://camo.githubusercontent.com/582944f6627732531ce1a2e20ad43538d1896e16a5f159ea28fd137dbb8e798a/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676f6f676c655f636c6f75642f676f6f676c655f636c6f75642d69636f6e2e737667" alt="cloud" width="40" height="40"/> </a>
     <a href="https://colab.research.google.com/?utm_source=scs-index"> <img src="https://avatars.githubusercontent.com/u/38081706?v=4" alt="colab" width="40" height="40"/> </a>
-    <a href="https://ubuntu.com/"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwsiaLZUGQtezE7dmXL4_pkNQVo26GkZ0yl6z_EgWES_kf_cCH2AucyczbjHRSgEsKdXc&usqp=CAU" alt="colab" width="40" height="40"/> </a>
-    <a href="https://www.kali.org/"> <img src="https://toppng.com/uploads/preview/kali-linux-logo-11562915225uyursxhbp6.png" alt="colab" width="40" height="40"/> </a>  
   </p>
   
   <p> IOT </p>
@@ -67,24 +71,6 @@
     <a href="https://www.raspberrypi.org/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5969/5969184.png" alt="rpi" width="40" height="40"/> </a>
     <a href="https://www.arduino.cc/" target="_blank"> <img src="https://www.vernier.com/wp-content/uploads/2020/06/Arduino-Loop-logo-white.png" alt="arduino" width="48" height="40"/> </a>
     <a href="https://www.labcenter.com/" target="_blank"> <img src="https://i0.wp.com/abbaspc.net/wp-content/uploads/2020/01/Proteus-Professional-Crack-Download.png" alt="proteus" width="43" height="40"/> </a>
-  </p>
- 
-  <p> ML and Data Science </p>
-  <p>
-     <a href="https://opencv.org/" target="_blank"> <img src="https://camo.githubusercontent.com/ce9fb3389462f2c9444f863e410f0d17d04b216beba8749a015011887eadfbaf/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6f70656e63762f6f70656e63762d69636f6e2e737667" alt="opencv" width="40" height="40"/> </a>
-    <a href="https://spacy.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/SpaCy_logo.svg/2560px-SpaCy_logo.svg.png" alt="spacy" width="68" height="32"/> </a>
-    <a href="https://pytorch.org/" target="_blank"> <img src="https://camo.githubusercontent.com/c895dcc921b7591d8133f091d69bce4de301c6834af8a201d6a25237c80524cf/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7079746f7263682f7079746f7263682d69636f6e2e737667" alt="pytorch" width="40" height="40"/> </a>
-    <a href="https://numpy.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/2560px-NumPy_logo_2020.svg.png" alt="numpy" width="63" height="45"/> </a>
-    <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="pandas" width="40" height="40"/> </a>
-    <a href="https://powerbi.microsoft.com/en-au/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJizP58YF8vMSSq8QmU3oLmkQppoSKsw7Grw&usqp=CAU" alt="power bi" width="40" height="40"/> </a>
-    <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://camo.githubusercontent.com/2696dab93dcf14522f50bf2ca978d3d13e8cc1709eb3218f092ea486c798a3d0/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f322f32642f54656e736f72666c6f775f6c6f676f2e7376672f39353770782d54656e736f72666c6f775f6c6f676f2e7376672e706e67" alt="tensorflow" width="40" height="40"/> </a>
-  </p>
-
-  <p> Cybersecurity </p>
-  <p>
-    <a href="https://www.maltego.com/" target="_blank"> <img src="https://taiwebs.com/upload/icons/maltego100-100.png" alt="maltego" width="40" height="40"/> </a>
-    <a href="https://www.wireshark.org/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/wireshark_104082.png" alt="wireshark" width="40" height="40"/> </a>
-    <a href="https://portswigger.net/burp" target="_blank"> <img src="https://i2.wp.com/shareappscrack.com/wp-content/uploads/2021/02/be1f6631-3e12-47da-a6fd-f2e007191fae.png?fit=128%2C92&ssl=1" alt="maltego" width="40" height="40"/> </a>
   </p>
   
   <p> Blockchain </p>
