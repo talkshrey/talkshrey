@@ -3,11 +3,10 @@
 <h1 align="center">Hey, I'm Shrey Parekh</h1>
 <h3 align="center">Activities</h3>
 
-<img width=40% align="right" src="https://c.neh.tw/thumb/f/720/c65e5d8d71a549049df2.jpg">
 <br>
 <br>
   
-- I’m currently learning **Blockchain Engineering**
+- I’m currently working as a Software Developer in **Bajaj Finserv Health Limited**
 
 - 💬 Ask me about **Programming languages, Web/App Development, Frameworks, Deep Learning, Data science, Cybersecurity, IOT, Blockchain, AR, Cloud Computing**
 
@@ -30,12 +29,10 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
     <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://icon-library.com/images/django-icon/django-icon-0.jpg" alt="django" width="40" height="40"/></a> 
-  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a> 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
     <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
     <a href="https://mui.com/" target="_blank"> <img src="https://img.stackshare.io/service/1904/default_44d81cb9fadbc3688b7e91a6d5217d0ea5358b57.png" alt="mui" width="30" height="30"/></a>
     <a href="https://www.figma.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="35" height="35"/> </a>
-    <a href="https://threejs.org/" target="_blank"> <img src="https://aws1.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" alt="three" width="35" height="35"> </a>   
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.pngkey.com/png/full/269-2693201_mysql-logo-circle-png.png" alt="mysql" width="35" height="35"> </a>
   </p>
   
