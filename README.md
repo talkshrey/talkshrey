@@ -1,16 +1,10 @@
 <!-- <img src="https://img-c.udemycdn.com/redactor/raw/2020-10-10_10-32-20-69d03d986e3001cfb40c457eede13a58.jpg" height=200 width=250> -->
 <div style="background-color:grey">
-<h1 align="center">Hey, I'm Shrey Parekh</h1>
-<h3 align="center">Activities</h3>
-
-<br>
-<br>
+<h1 align="center">Shrey Parekh</h1>
   
-- I’m currently working as a Software Developer in **Bajaj Finserv Health Limited**
-
-- 💬 Ask me about **Programming languages, Web/App Development, Frameworks, Deep Learning, Data science, Cybersecurity, IOT, Blockchain, AR, Cloud Computing**
-
-- 📫 How to reach me **talkshrey@gmail.com**
+- I am a master's student
+- [Mail](talkshrey@gmail.com)
+- [Resume](https://drive.google.com/file/d/1i7xUfu4km9dRIj8HpG3KI93-NKfB7_5p/view?usp=sharing)
   
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=talkshrey&show_icons=true&locale=en&layout=compact&theme=dark" alt="shrey parekh" width="40%"/></p>
